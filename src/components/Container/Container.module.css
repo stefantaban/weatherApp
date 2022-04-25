@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  height: 250px;
+  background-color: gray;
+}
+
+.container {
+  border: solid 1px grey;
+  margin: 50px;
+}
+
+h1 {
+  margin: auto;
+}
